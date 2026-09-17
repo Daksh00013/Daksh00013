@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi, I’m Daksh 👋<br> Computer Science student who spends more time fixing bugs than fixing my sleep schedule 😴💻<br><br>I code in Java, C++, C, and Python — basically I speak more programming languages than human languages 😂<br>I enjoy solving problems using DSA (sometimes they get solved… sometimes I just stare at them 👀).
+Hi, I’m Daksh 👋
+Computer Science student who spends more time building apps and fixing bugs than fixing my sleep schedule 😴💻
+
+I code in Java, Kotlin, C++, and Python — with a growing focus on Android Development using Kotlin & Jetpack Compose 📱. I enjoy solving problems with DSA, exploring software development, and turning ideas into working projects.
+
+Currently learning, building, debugging, and occasionally wondering why the code worked five minutes ago 😂
 
 
 ## 🌐 Socials:
